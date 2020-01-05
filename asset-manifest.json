@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Pomodoro-Tracker/static/css/main.4081c0b0.chunk.css",
+    "main.js": "/Pomodoro-Tracker/static/js/main.e9176d81.chunk.js",
+    "main.js.map": "/Pomodoro-Tracker/static/js/main.e9176d81.chunk.js.map",
+    "runtime-main.js": "/Pomodoro-Tracker/static/js/runtime-main.5f867df2.js",
+    "runtime-main.js.map": "/Pomodoro-Tracker/static/js/runtime-main.5f867df2.js.map",
+    "static/css/2.b90ce945.chunk.css": "/Pomodoro-Tracker/static/css/2.b90ce945.chunk.css",
+    "static/js/2.985f219d.chunk.js": "/Pomodoro-Tracker/static/js/2.985f219d.chunk.js",
+    "static/js/2.985f219d.chunk.js.map": "/Pomodoro-Tracker/static/js/2.985f219d.chunk.js.map",
+    "index.html": "/Pomodoro-Tracker/index.html",
+    "precache-manifest.57c281ff528cb95e10e6a95fbd7b9bbb.js": "/Pomodoro-Tracker/precache-manifest.57c281ff528cb95e10e6a95fbd7b9bbb.js",
+    "service-worker.js": "/Pomodoro-Tracker/service-worker.js",
+    "static/css/2.b90ce945.chunk.css.map": "/Pomodoro-Tracker/static/css/2.b90ce945.chunk.css.map",
+    "static/css/main.4081c0b0.chunk.css.map": "/Pomodoro-Tracker/static/css/main.4081c0b0.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f867df2.js",
+    "static/css/2.b90ce945.chunk.css",
+    "static/js/2.985f219d.chunk.js",
+    "static/css/main.4081c0b0.chunk.css",
+    "static/js/main.e9176d81.chunk.js"
+  ]
+}

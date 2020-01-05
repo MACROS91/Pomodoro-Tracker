@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#cell {
+  width:40px;
+  height:30px;
+  text-align:center;
+  line-height:1.1em;
+  font-size:1.1em;
+  background-color: transparent;
+  border-style:none;
+}
+
+table, th, td {
+  border: 1px grey;
+}
+
+#headerbuttons {
+  width:70px;
+  height:50px;
+  text-align:center;
+  line-height:1.1em;
+  font-size:1.2em;
+  background-color: darkred;
+  color:white;
+  border-style:none;
+}
+
+.pushable {
+  height: auto!important;
+}
+
+.pusher {
+overflow: visible!important;
+}
